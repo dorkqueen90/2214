@@ -42,3 +42,4 @@ public class Customer {
 	}
 }
 //add in test stuff
+// here is my second comment
