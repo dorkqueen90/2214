@@ -41,3 +41,4 @@ public class Customer {
 		serviceTime--;
 	}
 }
+//add in test stuff
